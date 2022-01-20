@@ -1,4 +1,4 @@
-# Digital Systems Design
+# Digital System Design
 
 
 ## COURSE DESCRIPTION
